@@ -17,7 +17,7 @@ A highly secure user registration and login web application developed using Pyth
 
 1. Clone this repository:
 ```bash
-git clone [https://github.com/YOUR_USERNAME/secure-login-system.git](https://github.com/YOUR_USERNAME/secure-login-system.git)
+git clone https://github.com/NSxSharpyy/secure-login-system.git
 ```
 2. Install the necessary packages:
 ```bash
